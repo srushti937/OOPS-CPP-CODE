@@ -1,8 +1,8 @@
 # Object-Oriented Programming with C++ — Unit II: Inheritance
 
-**Student Name:** [Shruti Pravin Patil]
-**PRN:** [125UAD1253]
-**Class/Division:** S.Y. B.Tech. (Artificial Intelligence and Data Science) / Div. [C]
+**Student Name:** [Srushti Avinash Rode]
+**PRN:** [125UAD1063]
+**Class/Division:** S.Y. B.Tech. (Artificial Intelligence and Data Science) / Div. [B]
 **Course Name:** Object-Oriented Programming with C++ (ADPC303)
 **Unit:** II — Inheritance
 
